@@ -9,7 +9,7 @@
 6. [Lab 06](https://github.com/Varshitha0702/AIML-2025/blob/main/AIML_A6.pdf):Introduction to Python Libraries-Numpy
 7. [Lab 07](https://github.com/Varshitha0702/AIML-2025/blob/main/AIML_A7.pdf):Introduction to Python Libraries-Numpy
 8. [Lab 08](https://github.com/Varshitha0702/AIML-2025/blob/main/AIML_A8.pdf):Introduction to Python Libraries-Numpy
-9. [Lab 09]():Introduction to Python Libraries-Numpy
+9. [Lab 09](https://github.com/Varshitha0702/AIML-2025/blob/main/AIML_A9.pdf):Introduction to Python Libraries-Numpy
 10. [Lab 10](https://github.com/Varshitha0702/AIML-2025/blob/main/AIML_A10.pdf):Introduction to Python Libraries-Numpy
 # Artificial Intelligence And Machine Learning Lab Jupyter Notebooks
 1. [Lab 01]():Introduction to Python Libraries-Numpy
